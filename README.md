@@ -18,6 +18,20 @@ Instead of juggling dozens of bookmarks and random websites, DevToolbox gives yo
 
 ---
 
+## 📸 Visual Showcase
+
+Here are some of the interactive tools included in the suite:
+
+| **DevToolbox Portal Showcase** | **CSS 3D Transform Cube Studio** |
+|:---:|:---:|
+| ![DevToolbox Portal](marketing/dev_toolbox_showcase.png) | ![CSS 3D Transform Studio](marketing/css_3d_transform_showcase.png) |
+
+| **Git Branch Merge Visualizer** | **JS Audio Synth & Soundboard** |
+|:---:|:---:|
+| ![Git Branch Visualizer](marketing/git_branch_showcase.png) | ![JS Audio Synth](marketing/js_audio_synth_showcase.png) |
+
+---
+
 ## 🛠️ Tool Categories
 
 ### 🎨 CSS Design (20+ tools)
