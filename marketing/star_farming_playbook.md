@@ -9,7 +9,7 @@ Product Hunt is one of the most effective platforms for driving thousands of vis
 
 ### Metadata Details
 *   **Product Name**: DevToolbox
-*   **Tagline**: 51+ free, client-side, open-source web utilities for developers
+*   **Tagline**: 51+ free, client-side visual web tools for developers (52 chars)
 *   **Categories**: Developer Tools, Open Source, Design Tools
 *   **Primary URL**: `https://bruh74392-collab.github.io/dev-toolbox/`
 *   **GitHub URL**: `https://github.com/bruh74392-collab/dev-toolbox`
